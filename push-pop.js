@@ -6,5 +6,6 @@ var names = ['mahir', 'maruf', 'shariar'];
 // names.push('al')
 
 names.pop();
+names.pop();
 console.log(names)
 
