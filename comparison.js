@@ -35,3 +35,4 @@ var num2 = 60;
 
 // money1 > money2 || result1 > result2
 
+
